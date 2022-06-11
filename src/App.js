@@ -2,7 +2,7 @@ import './App.css';
 import Home from './Pages/Home/Home';
 import Navbar from './Shared/Navbar';
 import { Route, Routes } from 'react-router-dom';
-import ContactMe from './Pages/ContactMe.js/ContactMe';
+import ContactMe from './Pages/ContactMe/ContactMe';
 import Projects from './Pages/Projects/Projects';
 import About from './Pages/About/About';
 import Blog from './Pages/Blog/Blog';

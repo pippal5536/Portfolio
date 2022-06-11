@@ -27,7 +27,7 @@ const ContactMe = () => {
           type="email"
           placeholder="Email"
           name="email"
-          className="px-3 py-3 placeholder-gray-400 text-white relative bg-white bg-gray-900 rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring ml-[26.48rem] w-80"
+          className="px-3 py-3 placeholder-gray-400 text-white relative  bg-gray-900 rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring ml-[26.48rem] w-80"
           required
         />
       </div>
